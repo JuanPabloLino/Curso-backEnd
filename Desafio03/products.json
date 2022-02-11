@@ -1,0 +1,23 @@
+[
+    {
+        "title":"Car",
+        "price":60000,
+        "thumbnail":"https://cdn.aarp.net/content/dam/aarp/auto/2017/07/1140-hyundai-ioniq-great-cars-road-trips-esp.imgcache.revfd63981c76a67e8a4ed28622bb76883e.web.700.403.jpg",
+        "id":1
+
+    },
+    {
+        "title":"Bike",
+        "price":12000,
+        "thumbnail":"https://cdn-ctstaging.pressidium.com/wp-content/uploads/2021/11/Santa-Cruz-Highball-XC-gravel-bikes-of-the-bunch-cyclingtips-Alex-J-Wissmann-10-1340x754.jpg",
+        "id":2
+
+    },
+    {
+        "title":"Bus",
+        "price":175000,
+        "thumbnail":"https://www.radiocompanera.com/wp-content/uploads/2021/08/23.-wayna.jpg",
+        "id":3
+    }
+]
+
